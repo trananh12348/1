@@ -1,0 +1,6 @@
+{
+  "name": "App của Hạt Dẻ",
+  "description": "App bán cơm, quản lý món ăn và thống kê doanh thu/lợi nhuận theo ngày, tháng tích hợp QR thanh toán VietQR chuyển khoản nhanh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
